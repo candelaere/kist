@@ -10,7 +10,7 @@ achtekant      buiten (300*580*3)P
 
 onderkant             (414*574*6)T
 
-deksel         buiten (420*580*3)
+deksel         buiten (420*580*3)P
 deksel         midden (420*580*3)
 deksel         binnen (402*562*3)
 

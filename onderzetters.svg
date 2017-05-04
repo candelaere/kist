@@ -16,6 +16,8 @@
    id="svg4536"
    inkscape:version="0.91 r13725"
    sodipodi:docname="onderzetters.svg">
+  <title
+     id="title6022">kist onderdeel</title>
   <defs
      id="defs4530">
     <inkscape:perspective
@@ -34,7 +36,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1217.5255"
+     inkscape:cx="760.38264"
      inkscape:cy="581.604"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -56,8 +58,32 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>kist onderdeel</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
+        <dc:date>2017-04-01</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dasrakel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:relation>ontwerp.svg</dc:relation>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -153,8 +179,8 @@
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4279"
-       cx="-155.7016"
-       cy="12.526503"
+       cx="225.70158"
+       cy="9.3011055"
        r="45" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
